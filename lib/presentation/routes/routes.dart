@@ -1,4 +1,4 @@
-import 'package:ai_project/presentation/splash/splash_page.dart';
+import 'package:ai_project/presentation/pages/splash/splash_page.dart';
 import 'package:flutter/material.dart';
 
 abstract final class Routes {

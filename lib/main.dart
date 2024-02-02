@@ -2,7 +2,6 @@ import 'package:ai_project/app.dart';
 import 'package:ai_project/infrastructure/services/db_service.dart';
 import 'package:ai_project/infrastructure/services/log_service.dart';
 import 'package:flutter/material.dart';
-import 'package:hive_flutter/hive_flutter.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
